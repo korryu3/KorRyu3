@@ -1,10 +1,10 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged,prs_merged_percentage" />
+    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged,prs_merged_percentage" />
   </a>
   <a src="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact" alt="Top Langs" />
+    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact" alt="Top Langs" />
   </a>
 </p>
 
