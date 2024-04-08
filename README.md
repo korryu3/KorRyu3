@@ -1,3 +1,4 @@
+<!-- pacman -->
 <div align="center">
     <h1>
         <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
@@ -8,7 +9,13 @@
     </h1>
 </div>
 
+<!-- --------------------------------- :) ---------------------------------- -->
 
+<!-- AtCoder -->
+[![AtCoder Rating](https://badgen.org/img/atcoder/KorRyu/rating/algorithm?style=social)](https://atcoder.jp/users/KorRyu?contestType=algo)
+
+
+<!-- GitHub States -->
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged,prs_merged_percentage" />
@@ -18,6 +25,7 @@
   </a>
 </p>
 
+<!-- GitHub Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -80,7 +88,6 @@
 </p>
 
 
-<!-- --------------------------------- :) ---------------------------------- -->
 
 <br><br>
 
