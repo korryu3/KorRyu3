@@ -1,4 +1,4 @@
-# Hi! I'm KorRyu3! ✋
+# Hi! I'm KorRyu3! ✋ A Student Engineer 🫧
 
 <!-- pacman -->
 <div align="center">
