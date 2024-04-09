@@ -29,9 +29,17 @@
 <!-- GitHub Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- Batch -->
+<p align="left">
+<!-- GitHub profile -->
+    <a href="https://github.com/KorRyu3/KorRyu3/">
+        <img src="https://komarev.com/ghpvc/?username=KorRyu3" alt="KorRyu3" />
+    </a>
 <!-- AtCoder -->
-[![AtCoder Rating](https://badgen.org/img/atcoder/KorRyu/rating/algorithm?style=social)](https://atcoder.jp/users/KorRyu?contestType=algo)
-
+    <a href="https://atcoder.jp/users/KorRyu?contestType=algo">
+        <img src="https://badgen.org/img/atcoder/KorRyu/rating/algorithm?style=social" alt="AtCoder Rating" />
+    </a>
+</p>
 
 
 ## Skills 🛠️
@@ -61,14 +69,25 @@
 <h3 align="left">Others</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=md,linux&theme=light)](https://skillicons.dev)
-  
 
 
-<br/>
-<br/>
+<!--START_SECTION:waka-->
 
 
+<!--END_SECTION:waka-->
 
-<br><br>
 
+<!--
+**KorRyu3/KorRyu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
