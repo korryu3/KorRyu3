@@ -1,4 +1,4 @@
-# Hi! I'm KorRyu! ✋
+# Hi! I'm KorRyu3! ✋
 
 <!-- pacman -->
 <div align="center">
