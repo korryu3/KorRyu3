@@ -1,3 +1,5 @@
+# Hi! I'm KorRyu! ✋
+
 <!-- pacman -->
 <div align="center">
     <h1>
@@ -11,12 +13,11 @@
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
-<!-- AtCoder -->
-[![AtCoder Rating](https://badgen.org/img/atcoder/KorRyu/rating/algorithm?style=social)](https://atcoder.jp/users/KorRyu?contestType=algo)
+<!-- ## Social 📱 -->
 
-
+## Stats 📊
 <!-- GitHub States -->
-<p>
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged,prs_merged_percentage" />
   </a>
@@ -28,64 +29,43 @@
 <!-- GitHub Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- AtCoder -->
+[![AtCoder Rating](https://badgen.org/img/atcoder/KorRyu/rating/algorithm?style=social)](https://atcoder.jp/users/KorRyu?contestType=algo)
 
 
-## My Skills
-<!-- 持ってる技術 -->
 
-<p align="left">
-  <img height="50" src="https://skillicons.dev/icons?i=python&theme=light" />
+## Skills 🛠️
+
+<h3 align="left">Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=py,rust,php,html,css,js&theme=light)](https://skillicons.dev)
+
+<h3 align="left">Web Frameworks</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask&theme=light)](https://skillicons.dev)
   
-  <img height="50" src="https://skillicons.dev/icons?i=flask&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=fastapi&theme=light" />
+<h3 align="left">Databases</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
   
-  <img height="50" src="https://skillicons.dev/icons?i=md&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=git&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=docker&theme=light" />
-</p>
+<!-- <h3 align="left">App Frameworks</h3> -->
+
+<h3 align="left">ML Frameworks</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn&theme=light)](https://skillicons.dev)
+  
+<h3 align="left">Platforms</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,git,github&theme=light)](https://skillicons.dev)
+  
+<h3 align="left">Others</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=md,linux&theme=light)](https://skillicons.dev)
+  
+
+
 <br/>
-
-
-## Now Traning
-<!-- 勉強してること -->
-
-<p align="left">
-  <img height="50" src="https://skillicons.dev/icons?i=rust&theme=light" />
-  
-  <img height="50" src="https://skillicons.dev/icons?i=sklearn&theme=light" />
-  
-  <img height="50" src="https://skillicons.dev/icons?i=linux&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=docker&theme=light" />
-  <img height="50" src="https://skillicons.dev/icons?i=azure&theme=light" />
-</p>
-
 <br/>
-
-## Technologies of Interest
-<!-- 気になってる技術 -->
-
-<p align="left">
-  <img height="35" src="https://skillicons.dev/icons?i=go&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=html&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=css&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=js&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=ts&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=wasm&theme=light" />
-  
-  <img height="35" src="https://skillicons.dev/icons?i=django&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=pytorch&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=tensorflow&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=react&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=tailwind&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=nextjs&theme=light" />
-  
-  <img height="35" src="https://skillicons.dev/icons?i=graphql&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=kubernetes&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=postgres&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=firebase&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=cloudflare&theme=light" />
-  <img height="35" src="https://skillicons.dev/icons?i=aws&theme=light" />
-</p>
 
 
 
