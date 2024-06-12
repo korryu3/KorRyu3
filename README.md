@@ -17,20 +17,24 @@
 
 ## Stats 📊
 <!-- GitHub States -->
-<p align="left">
+<div align="left" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged,prs_merged_percentage" />
+    <img width="39.4%" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged_percentage" />
   </a>
   <a src="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact&exclude_repo=Configuration-files" alt="Top Langs" />
+      <img width="35.3%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact&exclude_repo=Configuration-files" alt="Top Langs" />
   </a>
-</p>
+</div>
 
 <!-- GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="75.2%" src="https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true" alt="trophy" />
+    </a>
+</div>
 <!-- Batch -->
-<p align="left">
+
+<div align="left">
 <!-- GitHub profile -->
     <a href="https://github.com/KorRyu3/KorRyu3/">
         <img src="https://komarev.com/ghpvc/?username=KorRyu3" alt="KorRyu3" />
@@ -39,34 +43,34 @@
     <a href="https://atcoder.jp/users/KorRyu?contestType=algo">
         <img src="https://badgen.org/img/atcoder/KorRyu/rating/algorithm?style=social" alt="AtCoder Rating" />
     </a>
-</p>
+</div>
 
 
 ## Skills 🛠️
 
-<h3 align="left">Languages</h3>
+### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=py,rust,php,html,css,js&theme=light)](https://skillicons.dev)
 
-<h3 align="left">Web Frameworks</h3>
+### Web Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=fastapi,flask&theme=light)](https://skillicons.dev)
   
-<h3 align="left">Databases</h3>
+### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
   
-<!-- <h3 align="left">App Frameworks</h3> -->
+<!-- ### App Frameworks -->
 
-<h3 align="left">ML Frameworks</h3>
+### ML Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch&theme=light)](https://skillicons.dev)
   
-<h3 align="left">Platforms</h3>
+### Platforms
 
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,git,github&theme=light)](https://skillicons.dev)
   
-<h3 align="left">Others</h3>
+### Others
 
 [![My Skills](https://skillicons.dev/icons?i=md,linux&theme=light)](https://skillicons.dev)
 
