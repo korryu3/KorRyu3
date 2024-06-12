@@ -22,7 +22,7 @@
     <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged,prs_merged_percentage" />
   </a>
   <a src="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact" alt="Top Langs" />
+      <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact&exclude_repo=Configuration-files" alt="Top Langs" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 <h3 align="left">ML Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch&theme=light)](https://skillicons.dev)
   
 <h3 align="left">Platforms</h3>
 
