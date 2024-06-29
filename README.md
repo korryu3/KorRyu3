@@ -62,7 +62,7 @@
   
 <!-- ### App Frameworks -->
 
-### ML Frameworks
+### ML/DL Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch&theme=light)](https://skillicons.dev)
   
