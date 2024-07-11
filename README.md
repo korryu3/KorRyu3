@@ -19,17 +19,17 @@
 <!-- GitHub States -->
 <div align="left" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49.4%" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged_percentage" />
+    <img width="49.4%" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged_percentage&theme=onedark" />
   </a>
   <a src="https://github.com/anuraghazra/github-readme-stats">
-      <img width="44.0%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact&exclude_repo=Configuration-files" alt="Top Langs" />
+      <img width="44.0%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact&theme=onedark&exclude_repo=Configuration-files" alt="Top Langs" />
   </a>
 </div>
 
 <!-- GitHub Trophy -->
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="93.8%" src="https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true&margin-w=1" alt="trophy" />
+        <img width="93.8%" src="https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true&margin-w=1&theme=onedark" alt="trophy" />
     </a>
 </div>
 <!-- Batch -->
@@ -50,29 +50,29 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,rust,html,css,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,html,css,js)](https://skillicons.dev)
 
 ### Web Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask)](https://skillicons.dev)
   
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
   
 <!-- ### App Frameworks -->
 
 ### ML/DL Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch&theme=light)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch)](https://skillicons.dev)
+
 ### Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,github)](https://skillicons.dev)
   
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma)](https://skillicons.dev)
 
 
 <!--START_SECTION:waka-->
