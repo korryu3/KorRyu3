@@ -68,11 +68,11 @@
   
 ### Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,github&theme=light)](https://skillicons.dev)
   
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=md,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma&theme=light)](https://skillicons.dev)
 
 
 <!--START_SECTION:waka-->
