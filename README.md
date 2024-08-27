@@ -50,7 +50,7 @@
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,rust,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,cpp,html,css,js)](https://skillicons.dev)
 
 ### Web Frameworks
 
