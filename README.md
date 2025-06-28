@@ -72,8 +72,11 @@
   
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma,vscode)](https://skillicons.dev)
 
+### Learning
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,cmake,discord,eclipse,express,gcp,go,java,kotlin,laravel,nextjs,nodejs,opencv,php,powershell,prisma,react,supabase,tailwind,tauri,terraform,ts,ubuntu,vim,vercel,)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
