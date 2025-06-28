@@ -68,15 +68,15 @@
 
 ### Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,github,windows)](https://skillicons.dev)
   
 ### Others
 
-[![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma,vscode,notion)](https://skillicons.dev)
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,cmake,discord,eclipse,express,gcp,go,java,kotlin,laravel,nextjs,nodejs,opencv,php,powershell,prisma,react,supabase,tailwind,tauri,terraform,ts,ubuntu,vim,vercel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,java,kotlin,nodejs,php,powershell,ts,cmake,express,opencv,prisma,react,tailwind,supabase,laravel,nextjs,tauri,terraform,discord,ubuntu,eclipse,vim,aws,gcp,vercel,)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
