@@ -74,7 +74,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=md,git,githubactions,linux,figma,vscode,notion)](https://skillicons.dev)
 
-### Learning
+### Explored Tech
 
 [![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,java,kotlin,nodejs,php,powershell,ts,cmake,express,opencv,prisma,react,tailwind,supabase,laravel,nextjs,tauri,terraform,discord,ubuntu,eclipse,vim,aws,gcp,vercel,)](https://skillicons.dev)
 
