@@ -22,7 +22,7 @@
     <img width="49.4%" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged_percentage&theme=onedark" />
   </a>
   <a src="https://github.com/anuraghazra/github-readme-stats">
-      <img width="44.0%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact&theme=onedark&exclude_repo=Configuration-files,Web-Contest&count_private=true" alt="Top Langs" />
+      <img width="44.0%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorRyu3&layout=compact&theme=onedark&exclude_repo=Configuration-files,Web-Contest,ruby-on-rails-sandbox&count_private=true" alt="Top Langs" />
   </a>
 </div>
 
