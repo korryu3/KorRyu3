@@ -19,10 +19,10 @@
 <!-- GitHub States -->
 <div align="left" width="100%">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="49.4%" align="center" src="https://github-readme-stats.vercel.app/api?username=KorRyu3&show=prs_merged_percentage&theme=onedark" />
+    <img width="49.4%" align="center" src="https://github-readme-stats-korryu3.vercel.app/api?username=korryu3&show=prs_merged_percentage&theme=onedark&count_private=true&private=true&include_all_commits=true&include_orgs=true" />
   </a>
   <a src="https://github.com/anuraghazra/github-readme-stats">
-      <img width="44.0%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korryu3&layout=compact&theme=onedark&exclude_repo=Configuration-files,Web-Contest,ruby-on-rails-sandbox&hide=jupyter%20notebook&count_private=true&include_orgs=true" alt="Top Langs" />
+      <img width="44.0%" align="center" src="https://github-readme-stats-korryu3.vercel.app/api/top-langs/?username=korryu3&layout=compact&theme=onedark&exclude_repo=Configuration-files,Web-Contest,ruby-on-rails-sandbox,TECH%2EC,Try-Web-Award&hide=jupyter%20notebook&count_private=true&private=true&include_all_commits=true&include_orgs=true" alt="Top Langs" />
   </a>
 </div>
 
