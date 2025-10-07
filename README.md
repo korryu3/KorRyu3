@@ -76,7 +76,7 @@
 
 ### Explored Tech
 
-[![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,java,kotlin,nodejs,php,powershell,ts,cmake,express,opencv,prisma,react,tailwind,supabase,laravel,nextjs,tauri,terraform,discord,ubuntu,eclipse,vim,aws,gcp,vercel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,go,java,kotlin,nodejs,php,powershell,ruby,ts,cmake,express,opencv,prisma,react,tailwind,supabase,laravel,nextjs,rails,tauri,terraform,discord,ubuntu,eclipse,vim,aws,gcp,vercel,)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
