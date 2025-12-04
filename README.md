@@ -29,7 +29,7 @@
 <!-- GitHub Trophy -->
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="93.8%" src="https://github-profile-trophy.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true&margin-w=1&theme=onedark" alt="trophy" />
+        <img width="93.8%" src="github-profile-trophy-korryu3.vercel.app/?username=KorRyu3&row=1&column=6&no-frame=true&margin-w=1&theme=onedark" alt="trophy" />
     </a>
 </div>
 <!-- Batch -->
